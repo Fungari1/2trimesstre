@@ -1,0 +1,5 @@
+const caixaPrincipal = document.querySelect(".caixa-principal")
+const caixaPerguntas = document.querySelect(".caixa-perguntas")
+const caixaAlternativas = document.querySelect(".caixa-alternativas")
+const caixaResultado = document.querySelect(".caixa-resultado")
+const textoResultado = document.querySelect(".texto-resultado")
